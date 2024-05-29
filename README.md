@@ -11,8 +11,10 @@ Kandilli deprem uygulaması jetpack compose ile yeniden yapılmıştır.
 * osmDroid - OpenStreetMap için kullanılmıştır.
 
 ## Ekran Görüntüleri
-- 
--
+- ![Screenshot_20240529_150200](https://github.com/ahmet-ozberk/KandilliDepremCompose/assets/83654764/31a125c0-13e7-44ee-ac6d-59003aa71baf)
+
+- ![Screenshot_20240529_150245](https://github.com/ahmet-ozberk/KandilliDepremCompose/assets/83654764/11a5708d-a082-418a-9c7d-d7a6bbe92e6d)
+
 
 ## License
 
